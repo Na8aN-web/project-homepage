@@ -1,4 +1,4 @@
-# Intern-Assessment
+# 
 
 The project involves the creation of a standard login/sign up page using resources from Figma.
 I created the above page using only HTML and CSS, CSS mediaqueries were used to make the page responsive to enable viewing on smaller screens and I ensured all written code was clean and understandable.
